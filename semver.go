@@ -1,3 +1,5 @@
 package semver
 
-func 
+func SayHello() string {
+	return "Hello Arcadio"
+}
